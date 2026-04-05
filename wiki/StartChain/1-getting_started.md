@@ -1,18 +1,12 @@
-# Getting Started
+## Getting Started
 
-So, you want to take the dip, huh? Well, let's go.
+### What **is** Linux?
 
-## Is it compatible with my daily life?
+There are multiple definitions I can give for defining Linux\*. However, I will give a simple, barely correct answer. 
+Linux is a replacement operating system, primarily made for computers, that a user or administrator can install to their device. Instead of primarily running Windows software, it runs Linux software. It is generally more "Free" than Windows, where it spies on you less, can be customised further, and, in general, there is less paid software too.
 
-Currently, this is a big fat *maybe.* 
 
-If all of your work is done in the browser, you will be fine.
+\*Defining Linux is a controversial thing due to the community behind it, and every answer put here will come under scrutiny and I will be yelled at by a thousand people.
 
-### For the person who has to process Microsoft Suite documents daily
-The lack of modern releases of Microsoft Office may be your downfall. [LibreOffice](https://www.libreoffice.org/download/download-libreoffice/) is available, and you can download and attempt to use it in your daily life.
-
-### For the 3D Modeller
-We have Blender, Autodesk Maya and Mudbox, alongside Adobe Substance 3D Painter, Modeler, and Designer. Unfortunately, we don't have 3DS Max or Zbrush. CAD is also a weakpoint for Linux. FreeCAD is the only major software available.
-
-### For the Gamer
-You are most likely* fine. Few games don't support Linux, although most of those that don't are large online titles. Fortnite, League of Legends, Valorant, Call of Duty, among other competitive titles, do not support Linux. If you wish to see a list, [AreWeAntiCheat](https://areweanticheatyet.com/) (AWAC) maintain a list of supported and unsupported online games, whilst [ProtonDB](https://www.protondb.com/) focus on every Steam game. AWAC is the first place to look for online games, whilst almost everything else is on ProtonDB. 
+## To Carry On
+[[2-is_it_compatible_with_me|Is It Compatible for my use case?]]
