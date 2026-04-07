@@ -1,7 +1,7 @@
 While the process of installing Linux is different for every distribution and piece of hardware the process is similar enough for most beginner distros. For this guide we will be using Linux Mint a distro based upon Ubuntu.
 
-To follow this guide effectively you will need:
-A working system
+To follow this guide effectively you will need: <br>
+A working system <br>
 A USB you are willing to format (around 8GB should be enough)
 
 
