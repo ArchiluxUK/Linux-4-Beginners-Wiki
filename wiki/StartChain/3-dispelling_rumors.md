@@ -10,3 +10,7 @@ Linux distributions feature a software store that has the vast majority of thing
 Linux is as stable as you make it. If it was unstable, NASA, Amazon, and thousands of other companies wouldn't use it.
 ### "Linux is harder to install than Windows"
 Linux, when installed fresh, is easier to set up than Windows, which requires you to sign up to their services. Lenovo even allow you to buy some laptops with Linux installed, and it's cheaper than Windows!
+
+## To Carry On
+
+[[4-which_linux_for_me|Which version of Linux suits me?]]
